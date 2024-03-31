@@ -79,9 +79,11 @@ ul{
     display: flex;
     justify-content: space-around;
     margin: 0 50px;
+    list-style-type: none;
 }
 ul li{
     margin-left: 30px;
+    list-style-type: none;
 }
 ul a{
     list-style-type:none;
@@ -121,6 +123,7 @@ ul a{
     border-bottom-right-radius: 5px;
 
 }
+
 /* Body Section */
 .text-container{
     display: flex;

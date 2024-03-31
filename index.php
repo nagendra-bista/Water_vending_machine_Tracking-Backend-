@@ -32,11 +32,11 @@ session_start();
       </div>
       </div>
 
-      <ul>
-      <a href=""><li>Home</li></a>
-      <a href=""><li>Admin Login</li></a>
-      <a href=""><li>My Account</li></a>
-      <a href=""><li>Services</li></a>
+      <ul  style="list-style-type:none;">
+      <li> <a href="">Home </a></li>
+      <li><a href="">Admin Login </a></li>
+      <li><a href="">Services</a></li>
+      <li><a href="logout.php">Log out </a></li>
       </ul>
     </nav>
 
@@ -66,9 +66,9 @@ session_start();
             <li>Availbility: Yes</li>
             <li>Status: Active</li>
             <li>Water Price: 2rs per litre</li>
-            <li>Location: Thamel</li>
+            <li>Location: Baisdhara</li>
           </ul>
-          <a href=""><button>Navigate</button></a>
+          <a href="https://www.google.com/maps/dir//P8M2%2BQQ6+Ram+mandir+Balaju+park,+Kathmandu+44600/@27.7341449,85.3016869,19.35z/data=!4m17!1m7!3m6!1s0x39eb19cb4b4b383f:0xc716d688abcabca1!2sRam+mandir+Balaju+park!8m2!3d27.7344211!4d85.3017802!16s%2Fg%2F11y1hq7q9x!4m8!1m0!1m5!1m1!1s0x39eb19cb4b4b383f:0xc716d688abcabca1!2m2!1d85.3018663!2d27.7344172!3e4?entry=ttu"><button>Navigate</button></a>
 
         </div>
       </div>
@@ -80,9 +80,9 @@ session_start();
             <li>Availbility: Yes</li>
             <li>Status: Active</li>
             <li>Water Price: 2rs per litre</li>
-            <li>Location: Thamel</li>
+            <li>Location: Ratnapark</li>
           </ul>
-          <a href=""><button>Navigate</button></a>
+          <a href="https://www.google.com/maps/dir//P848%2BJ3J+Water+Vending+Machine+(Water+ATM)+%E0%A4%9C%E0%A4%B0%E0%A5%82%E0%A4%81%E0%A4%B9%E0%A4%BF%E0%A4%9F%E0%A5%80,+Ratna+Park+Path,+Kathmandu+44600/@27.70659,85.3145225,19z/data=!4m17!1m7!3m6!1s0x39eb19c1950cf38f:0x9ba171ac5c059da3!2zV2F0ZXIgVmVuZGluZyBNYWNoaW5lIChXYXRlciBBVE0pIOCknOCksOClguCkgeCkueCkv-Ckn-ClgA!8m2!3d27.70659!4d85.3151411!16s%2Fg%2F11vds43btg!4m8!1m0!1m5!1m1!1s0x39eb19c1950cf38f:0x9ba171ac5c059da3!2m2!1d85.3151411!2d27.70659!3e4?entry=ttu"><button>Navigate</button></a>
 
         </div>
       </div>
@@ -94,9 +94,9 @@ session_start();
             <li>Availbility: Yes</li>
             <li>Status: Active</li>
             <li>Water Price: 2rs per litre</li>
-            <li>Location: Thamel</li>
+            <li>Location: Lainchaur</li>
           </ul>
-          <a href=""><button>Navigate</button></a>
+          <a href="https://www.google.com/maps/dir//P8HF%2B99J+Department+of+Water+Supply+and+Sewerage,+Kathmandu+44600/@27.7284665,85.3186374,17z/data=!4m18!1m8!3m7!1s0x39eb1917f792e191:0x6732bf97b737690!2sDepartment+of+Water+Supply+and+Sewerage!8m2!3d27.7284665!4d85.323401!15sCg9MYWluY2hhdXIgd2F0ZXKSARFnb3Zlcm5tZW50X29mZmljZeABAA!16s%2Fg%2F11c55rc3n7!4m8!1m0!1m5!1m1!1s0x39eb1917f792e191:0x6732bf97b737690!2m2!1d85.323401!2d27.7284665!3e4?entry=ttu"><button>Navigate</button></a>
 
         </div>
       </div>
@@ -108,9 +108,9 @@ session_start();
             <li>Availbility: Yes</li>
             <li>Status: Active</li>
             <li>Water Price: 2rs per litre</li>
-            <li>Location: Thamel</li>
+            <li>Location: DurbarMarg</li>
           </ul>
-          <a href="https://www.google.com/maps/dir//Thamel,+Kathmandu/@27.7153841,85.2711295,13z/data=!3m1!4b1!4m9!4m8!1m0!1m5!1m1!1s0x39eb18fcb77fd4bd:0x58099b1deffed8d4!2m2!1d85.3123293!2d27.7153902!3e4?entry=ttu"><button>Navigate</button></a>
+          <a href="https://www.google.com/maps/dir//Durbar+Marg,+Kathmandu+44600/@27.7119693,85.3168645,18.5z/data=!4m18!1m8!3m7!1s0x39eb19016c9d9fcb:0xd2291eee6917d60a!2sDurbar+Marg,+Kathmandu+44600!3b1!8m2!3d27.7114339!4d85.3176128!16s%2Fm%2F0jt5n49!4m8!1m0!1m5!1m1!1s0x39eb19016c9d9fcb:0xd2291eee6917d60a!2m2!1d85.3176128!2d27.7114339!3e4?entry=ttu"><button>Navigate</button></a>
 
         </div>
       </div>
@@ -122,12 +122,13 @@ session_start();
             <li>Availbility: Yes</li>
             <li>Status: Active</li>
             <li>Water Price: 2rs per litre</li>
-            <li>Location: Thamel</li>
+            <li>Location: Milan Chowk</li>
           </ul>
-          <a href=""><button>Navigate</button></a>
+          <a href="https://www.google.com/maps/dir//Dajubhaiko+Pani+Pasal,+Mid,+Milan+Chowk+Marga,+Kathmandu+44600/@27.6947387,85.3424651,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x39eb197fdb7a1d99:0xc574f545d373b8cd!2m2!1d85.340299!2d27.6950001?entry=ttu"><button>Navigate</button></a>
 
         </div>
       </div>
+
       <div class="box6 box">
         <img src="Image/vending.jpeg" alt="">
         <div class="machine-info">
@@ -136,9 +137,9 @@ session_start();
             <li>Availbility: Yes</li>
             <li>Status: Active</li>
             <li>Water Price: 2rs per litre</li>
-            <li>Location: Thamel</li>
+            <li>Location: Trupureswor</li>
           </ul>
-          <a href=""><button>Navigate</button></a>
+          <a href="https://www.google.com/maps/dir//M8R9%2BH33+Kathmandu+Upatyaka+Khanepani+Limited,+Tripureshwor+Chowk,+Kathmandu+44600/@27.6971979,85.3186895,15z/data=!4m8!4m7!1m0!1m5!1m1!1s0x39eb18532aa7e737:0x5442420d9f5e858e!2m2!1d85.3176728!2d27.6914007?entry=ttu"><button>Navigate</button></a>
 
         </div>
       </div>
